@@ -1,0 +1,175 @@
+ru:
+  
+  ui:
+    
+    mode:
+      version:
+        mobile: 'Мобильная Версия'
+        web: 'Веб Версия'
+        demo: 'Демо Версия'
+        full: 'Полная Версия'
+      status:
+        enabled: 'Включено'
+        disabled: 'Выключено'
+        open: 'Открыто'
+        closed: 'Закрыто'
+        yes_word: 'Да'
+        no_word: 'Нет'
+        on_word: 'Вкл'
+        off_word: 'Выкл'
+        from_word: 'Из'
+        to_word: 'В'
+      locale:
+        en: 'Английский (English)'
+        ru: 'Русский'
+      page_category:
+        uncategorized: Без Категории
+        general: Общее
+        help: Справка
+        post: Блог
+        howto: Примеры Использования
+        seo: Статьи
+        other: Другое
+      qa_category:
+        errors: 'Ошибки'
+        suggestions: 'Предложения'
+        transactions: 'Транзакции'
+        categories: 'Категории'
+        resources: 'Ресурсы'
+        goals: 'Цели'
+        budgets: 'Бюджеты'
+        credits: 'Кредиты'
+        events: 'События'
+        reports: 'Отчеты'
+        import_export: 'Импорт/Экспорт'
+        profile: 'Профиль'
+        mobile_app: 'Мобильное Приложение'
+        android: 'Android'
+        iphone: 'iPhone'
+      qa_question:
+        open: 'Открыто'
+        work: 'В Работе'
+        done: 'Сделано'
+        decline: 'Отклонено'
+        hide: 'Скрыто'
+        closed: 'Закрыто'
+      link:
+        duplicates: 'Дубликаты'
+        pending: 'Добавленные'
+        waiting: 'Ожидающие'
+        confirmed: 'Подтвержденные'
+        declined: 'Откланенные'
+      login_page:
+        dashboard: 'Панель Инструментов'
+        transactions: 'Транзакции'
+        overview: 'Обзор'
+      overview_type:
+        chart: 'График'
+        list: 'Последние Транзакции'
+      separator:
+        tab: 'Табулятор (\t)'
+        semicolon: 'Точка с запятой (;)'
+        mark: 'Запятая (,)'
+      encoding:
+        unicode: 'Unicode'
+        utf8: 'UTF-8'
+        windows1251: 'Windows 1251'
+        windows1252: 'Windows 1252'
+      decimal_delimiter:
+        dot: 'Точка (.)'
+        comma: 'Запятая (,)'
+      quote:
+        double: 'Двойной (")'
+        single: "Одинарный (')"
+      message:
+        alert: Предупреждение
+        error: Ошибка
+        notice: Сообщение
+        success: Успешно
+        info: Информация
+      import_rule:
+        ignore: 'Игнорировать'
+        process: 'Обработать'
+      consumer_tokens:
+        google_calendar: 'Google Календарь'
+        yandex_money: 'Яндекс.Деньги'
+        paypal: 'Paypal'
+      flash:
+        alert: 'Предупреждение'
+        error: 'Ошибка'
+        notice: 'Сообщение'
+        success: 'Успешно'
+        info: 'Информация'
+      import_format:
+        csv_format: 'CSV'
+        ofx_format: 'OFX'
+        qif_format: 'QIF (Quicken)'
+        swift_format: 'MT940 (SWIFT)'
+      import_type:
+        software: 'Программа'
+        bank: 'Банк'
+      import_mode:
+        inexfinance_com: 'InExFinance.com'
+        easyfinance_ru: 'EasyFinance.ru'
+        zenmoney_ru: 'ZenMoney.ru'
+        home_finance_ua: 'Home.Finance.ua'
+        homemoney_ua: 'HomeMoney.ua'
+        drebedengi_ru: 'DrebeDengi.ru'
+        buxfer_com: 'Buxfer.com'
+        cash_organizer: 'Inesoft Cash Organizer'
+        custom: 'Другой'
+        ing_nl: 'ING.nl'
+        nationwide_co_uk: 'Nationwide.co.uk'
+        first_direct_uk: 'First Direct (UK)'
+        mbna_co_uk: 'MBNA Credit Card (UK)'
+        citibank_ru: 'Citi Банк (RU)'
+        vtb24_ru: 'ВТБ24 (RU)'
+        rsb_ru: 'Банк Русский Стандарт (RU)'
+      import_status:
+        unprocessed: 'Не обработано'
+        processed: 'Обработано'
+        fail: 'Не успешно'
+        ok: 'Успешно'
+        duplicate: 'Дубликат'
+      budget_mode:
+        none: 'Нет'
+        category: 'Бюджет Категории'
+      category_mode:
+        standard: 'Стандартный'
+        correction: 'Коррекция'
+        exchange: 'Перевод/Обмен'
+        external_transfer: 'Внешний Перевод'
+      credit:
+        debt: 'Долг'
+        deposit: 'Депозит'
+        return: 'Возврат Кредита'
+        addition: 'Увеличение Кредита'
+      schedule_repeat:
+        none: 'Нет'
+        daily: 'Ежедневно'
+        weekly: 'Еженедельно'
+        monthly: 'Ежемесячно'
+        yearly: 'Ежегодно'
+      schedule_end_status:
+        never: 'Никогда'
+        count: 'Количество'
+        until: 'До даты'
+      schedule_day_type:
+        month_day: 'День месяца'
+        week_day: 'День недели'
+        advanced_week_day: 'День недели (Расширенный)'
+        advanced_month_day: 'День месяца (Расширенный)'
+      search_type:
+        everything: 'Всё'
+        transactions: 'Транзакции'
+        answers: 'Вопросы/Ответы'
+        pages: 'Страницы'
+      journal_type:
+        email: 'Email'
+        transaction: 'Транзакция'
+      journal_operation:
+        import: 'Импорт'
+        delete: 'Удаление'
+      journal_status:
+        success: 'Успешно'
+        fail: 'Неудачно'

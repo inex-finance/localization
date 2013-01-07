@@ -1,0 +1,13 @@
+ru:
+
+  helpers:
+    submit:
+      create: 'Создать'
+      update: 'Обновить'
+    label:
+      post:
+        title: 'текст'  # пример перевода надписи
+        
+
+
+

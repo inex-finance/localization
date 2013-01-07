@@ -1,0 +1,38 @@
+ru:
+  will_paginate:
+    previous_label: "&#8592; Назад"
+    next_label: "Вперед &#8594;"
+    page_gap: "&hellip;"
+
+    page_entries_info:
+      single_page:
+        zero:  "%{model} не найдено"
+        one:   "Показываем 1 %{model}"
+        few: "Показываем все %{count} %{model}"
+        many: "Показываем все %{count} %{model}"
+        other: "Показываем все %{count} %{model}"
+
+      single_page_html:
+        zero:  "%{model} не найдено"
+        one:   "Показываем <b>1</b> %{model}"
+        few: "Показываем <b>все&nbsp;%{count}</b> %{model}"
+        many: "Показываем <b>все&nbsp;%{count}</b> %{model}"
+        other: "Показываем <b>все&nbsp;%{count}</b> %{model}"
+
+      multi_page: "Показываем %{model} %{from} - %{to} из %{count} всего"
+      multi_page_html: "Показываем %{model} <b>%{from}&nbsp;-&nbsp;%{to}</b> из <b>%{count}</b> всего"
+
+    # models:
+    #   entry:
+    #     zero:  entries
+    #     one:   entry
+    #     few:   entries
+    #     other: entries
+
+    # line_item:
+    #   page_entries_info:
+    #     single_page:
+    #       zero:  "Your shopping cart is empty"
+    #       one:   "Displaying one item in your cart"
+    #       other: "Displaying all %{count} items"
+    #     multi_page: "Displaying items %{from} - %{to} of %{count} in total"

@@ -1,0 +1,347 @@
+ru:
+  
+  ui:
+    
+    view:
+      manage:
+        index:
+          title: 'Управление'
+      qa_categories:
+        index:
+          title: 'QA Категории'
+        add:
+          title: 'Добавить QA Категорию'
+        edit:
+          title: 'Изменить QA Категорию'
+      qa_questions:
+        index:
+          title: 'QA Вопросы'
+        edit:
+          title: 'Изменить QA Вопрос'
+      link_categories:
+        index:
+          title: 'Категории Ссылок'
+        add:
+          title: 'Добавить Категорию Ссылок'
+        edit:
+          title: 'Изменить Категорию Ссылок'
+      links:
+        index:
+          title: 'Ссылки'
+        add:
+          title: 'Добавить Ссылку'
+        edit:
+          title: 'Изменить Ссылку'
+      link_texts:
+        index:
+          title: 'Текст Ссылок'
+        add:
+          title: 'Добавить Текст Ссылки'
+        edit:
+          title: 'Изменить Текст Ссылки'
+      consumer_tokens:
+        index:
+          title: 'Токены Пользователей'
+      delayed_jobs:
+        index:
+          title: 'Фоновые Задачи'
+        edit:
+          title: 'Изменить Фоновую Задачу'
+      clients:
+        index:
+          title: 'Клиенты'
+        edit:
+          title: 'Изменеть Клиента'
+      comments:
+        index:
+          title: 'Комментарии'
+        edit:
+          title: 'Изменить Комментарий'
+      pages:
+        index:
+          title: 'Страницы'
+        add:
+          title: 'Добавить Страницу'
+        edit:
+          title: 'Изменить Страницу'
+      profile:
+        show:
+          title: 'Профиль'
+        edit:
+          title: 'Изменить Профиль'
+        language_currency:
+          title: 'Язык/Валюта'
+        date_time:
+          title: 'Дата/Время'
+        notification:
+          title: 'Уведомления'
+          send_confirmation: 'Послать подтверждение'
+          email_confirmed: 'Email подтвержден'
+          email_not_confirmed: 'Email не подтвержден'
+          email_send: 'Email отправлен, пожалуйста проверьте входящую почту.'
+        interface:
+          title: 'Интерфейс'
+        email_import:
+          title: 'Импорт из Email'
+        file_export:
+          title: 'Файл Экспорта'
+        cleanup:
+          title: 'Очистка Профиля'
+        cancel:
+          title: 'Удаление Профиля'
+      ip_whitelists:
+        index:
+          title: 'Разрешенные IP'
+        add:
+          title: 'Добавить IP'
+      external_connections:
+        index:
+          title: 'Внешние Связи'
+          unconfirmed: 'Запрашиваемый пользователь еще не подтвердил связь.'
+        add:
+          title: 'Добавить Внешнюю Связь'
+      messages:
+        index:
+          title: 'Сообщения'
+          read: 'Прочитанные Сообщения'
+      authentications:
+        index:
+          title: 'Aутентификации'
+          connect: 'Добавить аутентификацию к профилю:'
+      import_rules:
+        index:
+          title: 'Правила Импорта'
+        add:
+          title: 'Добавить Правило Импорта'
+        edit:
+          title: 'Изменить Правило Импорта'
+      consumer_tokens:
+        index:
+          title: 'Синхронизация'
+          not_connected: 'На данный момент Вы не подключены к внешним сервисам.'
+          can_connect: 'Вы можете подключиться к следующим сервисам:'
+          connected: 'Вы подключены к следующим сервисам:'
+        edit:
+          title: 'Изменить Синхронизацию'
+          connected: 'Вы уже подключены к %{name}.'
+      import_file:
+        index:
+          title: 'Импорт Файлов'
+      progress:
+        index:
+          title: 'Обрабатывается'
+      import_overviews:
+        show:
+          title: 'Обзор Импорта'
+      import_transactions:
+        index:
+          title: 'Транзакции Импорта'
+        edit:
+          title: 'Изменить Транзакцию Импорта'
+      import_resources:
+        index:
+          title: 'Ресурсы Импорта'
+        edit:
+          title: 'Изменить Ресурс Импорта'
+      import_categories:
+        index:
+          title: 'Категории Импорта'
+        edit:
+          title: 'Изменить Категорию Импорта'
+      resources:
+        index:
+          title: 'Ресурсы'
+        disabled:
+          title: 'Отключенные Ресурсы'
+        add:
+          title: 'Добавить Ресурс'
+        edit:
+          title: 'Изменить Ресурс'
+      categories:
+        index:
+          title: 'Категории'
+        disabled:
+          title: 'Отключенные Категории'
+        add:
+          title: 'Добавить Категорию'
+        edit:
+          title: 'Изменить Категорию'
+      budgets:
+        index:
+          title: 'Бюджеты'
+        add:
+          title: 'Добавить Бюджет'
+        edit:
+          title: 'Изменить Бюджет'
+      goals:
+        index:
+          title: 'Цели'
+        disabled:
+          title: 'Отключенные Цели'
+        add:
+          title: 'Добавить Цель'
+        edit:
+          title: 'Изменить Цель'
+      transactions:
+        index:
+          title: 'Транзакции'
+        add:
+          title: 'Добавить Транзакцию'
+        edit:
+          title: 'Изменить Транзакцию'
+      corrections:
+        add:
+          title: 'Добавить Коррекцию'
+        edit:
+          title: 'Изменить Коррекцию'
+      external_transfers:
+        add:
+          title: 'Добавить Внешний Перевод'
+        edit:
+          title: 'Изменить Внешний Перевод'
+      exchanges:
+        add:
+          title: 'Добавить Перевод/Обмен'
+        edit:
+          title: 'Изменить Перевод/Обмен'
+      credits:
+        index:
+          title: 'Кредиты'
+        disabled:
+          title: 'Отключенные Кредиты'
+        add:
+          title: 'Добавить Кредит'
+        edit:
+          title: 'Изменить Кредит'
+      credit_returns:
+        add:
+          title: 'Добавить Возврат Кредита'
+        edit:
+          title: 'Изменить Возврат Кредита'
+      credit_additions:
+        add:
+          title: 'Добавить Увеличение Кредита'
+        edit:
+          title: 'Изменить Увеличение Кредита'
+      events:
+        index:
+          title: 'События'
+        calendar:
+          title: 'Календарь'
+        add:
+          title: 'Добавить Событие'
+        edit:
+          title: 'Изменить Событие'
+      operations:
+        index:
+          title: 'Операции'
+        edit:
+          title: 'Изменить Операцию'
+      dashboards:
+        index:
+          title: 'Главная'
+        sidebar:
+          currency_rates: 'Курсы Валют'
+      answers:
+        index:
+          title: 'Вопросы/Ответы'
+          all: 'Все Вопросы/Ответы'
+        add:
+          title: 'Новый Вопрос'
+        show:
+          title: 'Вопрос'
+        category:
+          title: 'Категория Ответов'
+      subscriptions:
+        edit:
+          title: 'Подписка на Уведомления'
+      report:
+        show:
+          title: 'Отчеты'
+          charts: 'Графики'
+      end_day_balance:
+        index:
+          title: 'Баланс на конец дня'
+      resource_balance:
+        index:
+          title: 'Баланс по Ресурсу'
+      transaction:
+        index:
+          title: 'Транзакции'
+      credit_transaction:
+        index:
+          title: 'Транзакции в Кредите'
+      transaction_filter:
+        index:
+          title: 'Фильтр Транзакций'
+      category_turnover:
+        index:
+          title: 'Оборот по Категориям'
+      resource_turnover:
+        index:
+          title: 'Оборот по Ресурсам'
+      category_group:
+        index:
+          title: 'Группировка Категорий'
+      resource_group:
+        index:
+          title: 'Группировка Ресурсов'
+      tag_transaction:
+        index:
+          title: 'Транзакции по Тэгам'
+      tag_total:
+        index:
+          title: 'Итоги по Тэгам'
+      period_turnover:
+        index:
+          title: 'Оборот за Период'
+      rates_per_day:
+        index:
+          title: 'Курсы Валют за День'
+      item:
+        index:
+          title: 'Элементы Транзакций'
+      category_budget:
+        index:
+          title: 'Бюджеты по Категории'
+      category_comparison:
+        index:
+          title: 'Сравнение Категорий'
+      income_expense:
+        index:
+          title: 'Доход/Расход'
+      resource_total:
+        index:
+          title: 'Итоги по Ресурсам'
+      category_total:
+        index:
+          title: 'Итоги по Категориям'
+      balance_dynamic:
+        index:
+          title: 'Динамика Баланса'
+      category_dynamic:
+        index:
+          title: 'Динамика Категорий'
+      currency_dynamic:
+        index:
+          title: 'Динамика Курсов Валют'
+      category_month:
+        index:
+          title: 'Оборот по Категориям за Месяц'
+      category_trend:
+        index:
+          title: 'Тенденции по Категориям'
+      transaction_map:
+        index:
+          title: 'Карта Транзакций'
+      forecast:
+        index:
+          title: 'Прогноз Событий'
+      link_exchanges:
+        index:
+          title: 'Обмен Ссылками'
+      journals:
+        index:
+          title: 'Журнал'
+        show:
+          title: 'Просмотр Журнала'

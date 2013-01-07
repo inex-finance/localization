@@ -1,0 +1,49 @@
+en:
+  
+  ui:
+      
+    action:
+      add: 'Add'
+      new: 'New'
+      show: 'Show'
+      edit: 'Edit'
+      create: 'Create'
+      save: 'Save'
+      delete: 'Delete'
+      back: 'Back'
+      drag: 'Drag'
+      previous: 'Previous'
+      next: 'Next'
+      ok: 'OK'
+      cancel: 'Cancel'
+      refresh: 'Refresh'
+      confirm: 'Confirm'
+      copy: 'Copy'
+      create_event: 'Create Event'
+      update_confirm: 'Update and Confirm'
+      disconnect: 'Disconnect'
+      sync: 'Synchronize'
+      cleanup: 'Cleanup'
+      finish: 'Finish'
+      filter: 'Filter'
+      generate_budgets: 'Generate budgets for next month'
+      restore: 'Restore'
+
+      link_checker: 'Link Checker'
+      update_pagerank: 'Update PageRank'
+      check_reciprocal: 'Check Reciprocal'
+
+      switch_user: 'Switch User'
+      check_password: 'Check Password'
+      
+      edit_selected: 'Edit Selected'
+      delete_selected: 'Delete Selected'
+      select_all: 'Select All'
+      deselect_all: 'Deselect All'
+      
+      copy_amount: 'Copy Amount'
+      exchange_by_rate: 'Exchange by System Rate'
+
+      ask_question: 'Ask Question'
+      post: 'Post'
+      send: 'Send'

@@ -1,0 +1,15 @@
+en:
+  ui:
+    time:
+      day_names: [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday]
+      abbr_day_names: [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
+      min_day_names: [Su, Mo, Tu, We, Th, Fr, Sa]
+      month_names: [January, February, March, April, May, June, July, August, September, October, November, December]
+      abbr_month_names: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+
+      today: 'Today'
+      yesterday: 'Yesterday'
+      year: 'Year'
+      month: 'Month'
+      week: 'Week'
+      day: 'Day'

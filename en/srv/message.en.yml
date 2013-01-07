@@ -1,0 +1,69 @@
+en:
+  srv:
+    message:
+      error:
+        argument_error: "Incorrect Encoding (%{message})"
+        malformed_csv_error: "Malformed CSV (%{message})"
+        connection_not_found: 'External Connection not found.'
+        unsupported_file_error: 'Unsupported file format (%{message})'
+        authentications_exists: 'Authentication already exists.'
+        credits_empty: 'Credit can not be empty.'
+        demo_not_supported: 'Not supported in demo version.'
+      mobile:
+        reconstruction: 'We are sorry, but the mobile version is currently under reconstruction. Please check back later.'
+      demo:
+        full_version: "Full version is available at <a href='%{url}' rel='link'>www.inexfinance.com</a>."
+      api:
+        invalid: 'Token is invalid.'
+        rate_limit: 'Rate limit exceeded.'
+      validation:
+        ip_address: 'Invalid IP address format.'
+      notify:
+        external_connection:
+          request: 'External Connection request from %{user}.'
+          granted: 'External Connection request confirmed by %{user}.'
+          deleted: 'External Connection was deleted by %{user}.'
+          denied: 'External Connection request was denied by %{user}.'
+        external_transfer:
+          created: 'External Transfer received from %{user}.'
+        user:
+          signup: 'Welcome! Learn more about InEx Finance.'
+        credit:
+          return: 'Credit return date will be soon (%{name}).'
+        resource:
+          balance_below_zero: "Resource %{name} balance in %{code} Currency is below zero (%{amount} %{code}). Most probably the Transaction has been executed in a different Currency or Transfer/Exchange has been omitted."
+        budget:
+          limit_exceeded: "Expense budget limit exceeded for Category %{name}."
+
+      result:
+        background:
+          busy: 'Background process is already running. Please wait for its completion and try again.'
+          error: 'During background execution the following error occurred: %{error}'
+        profiles:
+          cleanup: 'Profile cleaned up.'
+        import:
+          upload_done: "File uploaded. Processed %{rows_processed} transactions from %{rows_count} records."
+          finish: 'Data Import finished successfully.'
+        email_confirmations:
+          update: 'Email confirmed.'
+          not_found: 'Email confirmation not found.'
+        links:
+          request: 'Link inclusion request added.'
+        oauth_consumers:
+          connect: '%{name} was successfully connected to your account.'
+          error: 'An error happened, please try connecting again. %{description}'
+          sync_start: 'Synchronization has started.'
+        operations:
+          destroy: 'Operation deleted.'
+          confirm: 'Operation confirmed.'
+          not_found: 'Operation not found.'
+        pages:
+          message_sent: 'Message sent successfully.'
+          empty: 'Email or message is empty.'
+        registrations:
+          incorrect_password: 'Incorrect Password.'
+          javascript: 'Please enable JavaScript.'
+          open_id_error: 'Name or email not supplied. Try again.'
+        subscriptions:
+          update: 'Subscription updated.'
+          not_found: 'Subscription not found.'

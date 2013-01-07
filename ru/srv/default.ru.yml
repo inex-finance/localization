@@ -1,0 +1,22 @@
+ru:
+  srv:
+    default:
+      resource:
+        cash: 'Наличные'
+        card: 'Карта'
+        bank: 'Банк'
+        general: 'Основной'
+      category:
+        salary: 'Зарплата'
+        general: 'Общие'
+        exchange: 'Перевод/Обмен'
+        external_transfer: 'Внешний Перевод'
+        correction: 'Коррекция'
+        debt: 'Долг'
+        deposit: 'Депозит'
+      email_import:
+        resource: '[Ресурс Email Импорта]'
+        category: '[Категория Email Импорта]'
+      restore:
+        resource: '[Восстановленный Ресурс]'
+        category: '[Восстановленная Категория]'

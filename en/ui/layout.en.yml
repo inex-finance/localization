@@ -1,0 +1,37 @@
+en:
+  ui:
+    layout:
+      header:
+        title: 'Home Finance'
+        description: 'Home Finance'
+        keywords: 'finance, home finance, bookkeeping'
+        name: 'InEx'
+        settings: 'Settings'
+        sign_out: 'Sign out'
+        sign_in: 'Sign in'
+        register: 'Register'
+        calculator: 'Calculator'
+      footer:
+        about: 'About'
+        rss: 'RSS'
+        privacy: 'Privacy Policy'
+        terms: 'Terms & Conditions'
+        contact: 'Contact Us'
+        site_map: 'Site Map'
+        help: 'Help'
+        faq: 'FAQ'
+        links: 'Links'
+        support: 'Support'
+        community: 'Community'
+        blog_news: 'News From Our Blog'
+        server_time: 'Server time'
+      menu:
+        blog: 'Blog'
+        pages: 'Pages'
+        post: 'Post'
+        users: 'Users'
+        tag: 'Tag'
+      demo:
+        title: 'InEx Finance Demo version.'
+        link: "The complete version is located at <b><a href='%{url}' rel='link'>InExFinance.com</a></b>"
+        info: 'The Demo version is daily regenerated.'

@@ -1,0 +1,76 @@
+en:
+  attributes:
+    made_on: 'Date'
+    cached_tag_list: 'Tags'
+    system_comment: 'Error messages'
+    backcolor: 'Background color'
+    enabled: 'Status'
+    mode: 'Type'
+    before_day: 'Notification'
+    at_time: 'At'
+    location: 'Location'
+
+  activerecord:
+    models:
+      qa_question: 'Question'
+    attributes:
+      category:
+        parent_id: 'Parent Category'
+        budget_mode: 'Automatic budget generation'
+        limit_notification: 'Expense limit exceeded notification'
+      resource:
+        to: 'Until'
+      consumer_token:
+        category_id: 'Default Category'
+        resource_id: 'Default Resource'
+      profile:
+        currency_id: 'Default Currency'
+        locale: 'Default Language'
+        export_decimal_delimiter: 'Decimal delimiter'
+        month_notification: 'Monthly reports'
+        operation_notification: 'Event notifications'
+        credit_notification: 'Credit notifications'
+        credit_day: 'Days before Credit return'
+        credit_time: 'At'
+        operation_day: 'Days before event'
+        operation_time: 'At'
+        geolocation: 'Record Geolocation'
+        login_page: 'Sign in page'
+        import_email: 'Import email address'
+        import_email_mode: 'Import as'
+        calendar_popup: 'Popup'
+        calendar_email: 'Email'
+        calendar_sms: 'SMS'
+      qa_question:
+        body: 'Question Text'
+      external_connection:
+        from_user_id: 'User'
+        to_user_id: 'User'
+        to_email: 'Email'
+      import_file:
+        data: 'Import File'
+        currency: 'Default currency'
+        separator: 'Column separator'
+      import_transaction:
+        status: 'Import status'
+      import_rule:
+        enabled: 'Process Record'
+      budget:
+        limit_notification: 'Expense limit exceeded notification'
+      resource:
+        date_from: 'From'
+        date_to: 'To'
+      schedule:
+        interval_value: 'Interval'
+        day_type: 'Day type'
+        week_day_number: 'Week day'
+        week_day_shift: 'Day of Week offset'
+        month_day_shift: 'Day of Month offset'
+      transaction:
+        mode: 'Type'
+    errors:
+      messages:
+        incorrect_date_format: 'date format not correct'
+        not_found: 'not found.'
+        connection_exists: 'Connection for External Transfers already exists.'
+        to_before_from: "Final date (Until) can't be earlier than start date (From)."

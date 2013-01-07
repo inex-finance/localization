@@ -1,0 +1,17 @@
+en:
+  srv:
+    layout:
+      header:
+        title: 'Home Finance'
+        description: 'Home Finance'
+        keywords: 'finance, home finance, bookkeeping'
+        name: 'InEx'
+      menu:
+        start: 'Get Started'
+        how_to: 'How To'
+        homepage: 'Home'
+        demo: 'Demo'
+        settings: 'Settings'
+        register: 'Register'
+      rss:
+        title: 'InEx personal finances and budgeting feed'

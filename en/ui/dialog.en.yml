@@ -1,0 +1,30 @@
+en:
+  
+  ui:
+    
+    dialog:
+      delete:
+        title: 'Are you sure?'
+        additional: 'All linked data will also be deleted.'
+      server_error:
+        title: 'Server Error'
+        notified: 'Our support team has been notified about the problem.'
+        additional: "If you believe you have additional information that may be of help in reproducing or correcting the error, please contact our Support. Please indicate the URL of the page you were requesting, any error id shown on this page as well as any other related information."
+        apologize: 'We apologize for the inconvenience. Thank you again for your patience and assistance.'
+        authentication_required: 'Authentication required.'
+        connection_lost: 'Server connection lost. Please refresh the page.'
+        unknown: 'Unknown error. Please contact us.'
+        not_found: 'Requested resource not found. Please refresh the page.'
+      catch_all:
+        title: 'Page Not Found'
+        additional: 'The requested page could not be found.'
+      mass_edit:
+        title: 'Mass Edit'
+      mass_delete:
+        title: 'Delete selected records?'
+      same_resource:
+        title: 'Is this correct?'
+        text: 'Fields From and To have equal Resource and Currency.'
+      same_currency:
+        title: 'Is this correct?'
+        text: 'Fields From and To have the same Currency, but different Amounts.'

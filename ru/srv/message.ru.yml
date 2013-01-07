@@ -1,0 +1,69 @@
+ru:
+  srv:
+    message:
+      error:
+        argument_error: "Неверная кодировка (%{message})"
+        malformed_csv_error: "Неверный формат CSV (%{message})"
+        connection_not_found: 'Внешняя Связь не найдена.'
+        unsupported_file_error: 'Неподдерживаемый формат файла (%{message})'
+        authentications_exists: 'Aутентификация уже существует.'
+        credits_empty: 'Кредит не может быть пустым.'
+        demo_not_supported: 'Не поддерживается в демо версии.'
+      mobile:
+        reconstruction: 'Нам очень жаль, но мобильная версия сейчас переписывается. Пожалуйста попробуйте позже.'
+      demo:
+        full_version: "Полная версия доступна по адресу <a href='%{url}' rel='link'>www.inexfinance.com</a>."
+      api:
+        invalid: 'Неверный токен.'
+        rate_limit: 'Превышен лимит запросов.'
+      validation:
+        ip_address: 'Неверный формат IP адреса.'
+      notify:
+        external_connection:
+          request: 'Запрос на Внешнюю Связь от %{user}.'
+          granted: 'Запрос на Внешнюю Связь подтверждена %{user}.'
+          deleted: 'Внешняя Связь удалена %{user}.'
+          denied: 'Внешняя Связь отклонена %{user}.'
+        external_transfer:
+          created: 'Получен Внешний Перевод от %{user}.'
+        user:
+          signup: 'Добро пожаловать! Узнайте больше о InEx Финансах.'
+        credit:
+          return: 'Дата возврата кредита скоро наступит (%{name}).'
+        resource:
+          balance_below_zero: "Баланс Ресурса %{name} в Валюте %{code} ниже нуля (%{amount} %{code}). Возможно транзакция была в другой Валюте или не был сделан Перевод/Обмен."
+        budget:
+          limit_exceeded: "Превышен планируемый расход для Категории %{name}."
+
+      result:
+        background:
+          busy: 'Фоновый процесс уже запущен. Пожалуйста, дождитесь его завершения и повторите попытку.'
+          error: 'Во время выполнения фонового процесса возникла ошибка: %{error}'
+        profiles:
+          cleanup: 'Профиль очищен.'
+        import:
+          upload_done: "Файл загружен. Обработано %{rows_processed} транзакций из %{rows_count} записей."
+          finish: 'Импорт Данных завершен успешно.'
+        email_confirmations:
+          update: 'Email подтвержден.'
+          not_found: "Подтверждение email'а не найдено."
+        links:
+          request: 'Запрос на довление ссылки создан.'
+        oauth_consumers:
+          connect: '%{name} был подключен в Вашему профилю.'
+          error: 'Произошла ошибка, попробуйте соединиться позже. %{description}'
+          sync_start: 'Синхронизация запущена.'
+        operations:
+          destroy: 'Операция удалена.'
+          confirm: 'Операция подтверждена.'
+          not_found: 'Операция не найдена.'
+        pages:
+          message_sent: 'Сообщение отправлено успешно.'
+          empty: 'Email или сообщение не введены.'
+        registrations:
+          incorrect_password: 'Неверный пароль.'
+          javascript: 'Пожалуйста включите JavaScript.'
+          open_id_error: 'Не получено имя или email. Попробуйте еще раз.'
+        subscriptions:
+          update: 'Подписка обновлена.'
+          not_found: 'Подписка не найдена.'

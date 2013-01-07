@@ -1,0 +1,70 @@
+en:
+  srv:
+    mail:
+      report:
+        thanks: 'Thanks for joining and have a great day!'
+        regards: 'Best regards,'
+        team: 'InEx Team'
+        unsubscribe: 'Unsubscribe'
+        generated: 'Generated at:'
+        login_link: 'To sign in to the site, just follow this link:'
+    
+        monthly:
+          title: 'InEx Finance | Monthly report %{year}/%{month}'
+          summary: 'Your monthly report for %{year}/%{month}.'
+          report_url: 'Report URL:'
+    
+        operation:
+          title: 'InEx Finance | Event Operation Generated - %{name}'
+          summary: 'We inform you that new operation from event has been generated:'
+        
+        credit:
+          title: 'InEx Finance | Credit Return Date - %{name}'
+          summary: 'We inform you that credit return date will be soon:'
+          
+      user:
+        hello: 'Hello %{name}!'
+        
+        confirmation_instructions:
+          title: 'InEx Finance | Email Confirmation'
+          confirm: 'To recieve email notifications you have to confirm your email through the link below:'
+      
+        signup:
+          title: 'InEx Finance | Registration confirmation'
+          hello: 'Dear %{name}, thank you for registering with us.'
+          learn_more: 'To learn more about InEx Finance, visit our Help, F.A.Q. and How To sections:'
+          default: 'Default configuration for your profile:'
+          change_default: 'To change default settings please visit Profile page:'
+          notification: 'To recieve email notifications you have to confirm your email through the link below:'
+
+        added_authentication:
+          title: 'InEx Finance | New external authentication added'
+          summary: 'We inform you that new external authentication was added to your profile (%{email}):'
+          
+        remove:
+          title: 'InEx Finance | Inactive account deletion notice' 
+          text: | 
+            We have noticed that you have not logged in to your InEx Finance account for more
+            than 6 months. We kindly ask you to verify that your user account is still active
+            by signing in on %{site} within the next %{days} days, otherwise your 
+            user account will be marked as inactive and deleted in accordance with InEx Finance
+            Terms and Conditions.
+            
+            This procedure is conducted on a regular basis as part of our ongoing efforts to
+            increase our system security and efficiency. Failure to verify your account will
+            result in account termination without any possibility of data recovery.  
+            
+            You can ignore this message if you would like your account to be deleted.
+            
+            Thank you for your understanding.  
+
+      link:
+        hello: 'Hello!'
+        
+        confirmed:
+          title: '%{base}: Your link has been added'
+          summary: 'Your link has been added into the category %{category}.'
+          address: 'Your link is located at this address'
+          link_info: 'Information about your link'
+          link_title: 'Title'
+          link_description: 'Description'

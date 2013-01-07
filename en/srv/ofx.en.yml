@@ -1,0 +1,28 @@
+en:
+  srv:
+    ofx:
+      main:
+        check: Check
+        payee: Payee
+        reference_number: Reference Number
+      type:
+        credit: Generic credit
+        debit: Generic debit
+        int_credit: Interest earned
+        int_debit: Interest paid
+        div: Dividend
+        fee: Fee
+        srvchg: Service charge
+        dep: Deposit
+        atm_debit: ATM debit
+        atm_credit: ATM credit
+        pos_debit: Point of sale debit
+        pos_credit: Point of sale credit
+        xfer: Transfer
+        check: Check
+        payment: Electronic payment
+        cash: Cash withdrawal
+        directdep: Direct deposit
+        derectdebit: Merchant initiated debit
+        repeatpmt: Repeating payment/standing order
+        other: Other

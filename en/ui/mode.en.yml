@@ -1,0 +1,175 @@
+en:
+  
+  ui:
+          
+    mode:
+      version:
+        mobile: 'Mobile Version'
+        web: 'Web Version'
+        demo: 'Demo Version'
+        full: 'Full Version'
+      status:
+        enabled: 'Enabled'
+        disabled: 'Disabled'
+        open: 'Open'
+        closed: 'Closed'
+        yes_word: 'Yes'
+        no_word: 'No'
+        on_word: 'ON'
+        off_word: 'OFF'
+        from_word: 'From'
+        to_word: 'To'
+      locale:
+        en: 'English'
+        ru: 'Russian (Русский)'
+      page_category:
+        uncategorized: Uncategorized
+        general: General
+        help: Help
+        post: Blog
+        howto: HowTo
+        seo: Articles
+        other: Other
+      qa_category:
+        errors: 'Errors'
+        suggestions: 'Suggestions'
+        transactions: 'Transactions'
+        categories: 'Categories'
+        resources: 'Resources'
+        goals: 'Goals'
+        budgets: 'Budgets'
+        credits: 'Credits'
+        events: 'Events'
+        reports: 'Reports'
+        import_export: 'Import/Export'
+        profile: 'Profile'
+        mobile_app: 'Mobile Application'
+        android: 'Android'
+        iphone: 'iPhone'
+      qa_question:
+        open: 'Open'
+        work: 'In Progress'
+        done: 'Done'
+        decline: 'Declined'
+        hide: 'Hide'
+        closed: 'Closed'
+      link:
+        duplicates: 'Duplicates'
+        pending: 'Pending'
+        waiting: 'Waiting'
+        confirmed: 'Confirmed'
+        declined: 'Declined'
+      login_page:
+        dashboard: 'Dashboard'
+        transactions: 'Transactions'
+        overview: 'Overview'
+      overview_type:
+        chart: 'Chart'
+        list: 'Last Transactions'
+      separator:
+        tab: 'Tab (\t)'
+        semicolon: 'Semicolon (;)'
+        mark: 'Comma (,)'
+      encoding:
+        unicode: 'Unicode'
+        utf8: 'UTF-8'
+        windows1251: 'Windows 1251'
+        windows1252: 'Windows 1252'
+      decimal_delimiter:
+        dot: 'Dot (.)'
+        comma: 'Comma (,)'
+      quote:
+        double: 'Double (")'
+        single: "Single (')"
+      message:
+        alert: 'Alert'
+        error: 'Error'
+        notice: 'Notice'
+        success: 'Success'
+        info: 'Information'
+      import_rule:
+        ignore: 'Ignore'
+        process: 'Process'
+      consumer_tokens:
+        google_calendar: 'Google Calendar'
+        yandex_money: 'Yandex.Money'
+        paypal: 'Paypal'
+      flash:
+        alert: 'Alert'
+        error: 'Error'
+        notice: 'Notice'
+        success: 'Success'
+        info: 'Information'
+      import_format:
+        csv_format: 'CSV'
+        ofx_format: 'OFX'
+        qif_format: 'QIF (Quicken)'
+        swift_format: 'MT940 (SWIFT)'
+      import_type:
+        software: 'Software'
+        bank: 'Bank'
+      import_mode:
+        inexfinance_com: 'InExFinance.com'
+        easyfinance_ru: 'EasyFinance.ru'
+        zenmoney_ru: 'ZenMoney.ru'
+        home_finance_ua: 'Home.Finance.ua'
+        homemoney_ua: 'HomeMoney.ua'
+        drebedengi_ru: 'DrebeDengi.ru'
+        buxfer_com: 'Buxfer.com'
+        cash_organizer: 'Inesoft Cash Organizer'
+        custom: 'Custom'
+        ing_nl: 'ING.nl'
+        nationwide_co_uk: 'Nationwide.co.uk'
+        first_direct_uk: 'First Direct (UK)'
+        mbna_co_uk: 'MBNA Credit Card (UK)'
+        citibank_ru: 'Citi Bank (RU)'
+        vtb24_ru: 'VTB24 (RU)'
+        rsb_ru: 'Russian Standard Bank (RU)'
+      import_status:
+        unprocessed: 'Unprocessed'
+        processed: 'Processed'
+        fail: 'Failed'
+        ok: 'Success'
+        duplicate: 'Duplicate'
+      budget_mode:
+        none: 'None'
+        category: 'Category Budget'
+      category_mode:
+        standard: 'Standard'
+        correction: 'Correction'
+        exchange: 'Transfer/Exchange'
+        external_transfer: 'External Transfer'
+      credit:
+        debt: 'Debt'
+        deposit: 'Deposit'
+        return: 'Credit Return'
+        addition: 'Credit Addition'
+      schedule_repeat:
+        none: 'None'
+        daily: 'Daily'
+        weekly: 'Weekly'
+        monthly: 'Monthly'
+        yearly: 'Yearly'
+      schedule_end_status:
+        never: 'Never'
+        count: 'Count'
+        until: 'Until'
+      schedule_day_type:
+        month_day: 'Day of month'
+        week_day: 'Day of week'
+        advanced_week_day: 'Day of week (Advanced)'
+        advanced_month_day: 'Day of month (Advanced)'
+      search_type:
+        everything: 'Everything'
+        transactions: 'Transactions'
+        answers: 'Questions/Answers'
+        pages: 'Pages'
+      journal_type:
+        email: 'Email'
+        transaction: 'Transaction'
+      journal_operation:
+        import: 'Import'
+        delete: 'Delete'
+      journal_status:
+        success: 'Success'
+        fail: 'Fail'

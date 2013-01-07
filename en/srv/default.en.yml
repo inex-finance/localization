@@ -1,0 +1,22 @@
+en:
+  srv:
+    default:
+      resource:
+        cash: 'Cash'
+        card: 'Card'
+        bank: 'Bank'
+        general: 'General'
+      category:
+        salary: 'Salary'
+        general: 'General'
+        exchange: 'Transfer/Exchange'
+        external_transfer: 'External Transfer'
+        correction: 'Correction'
+        debt: 'Debt'
+        deposit: 'Deposit'
+      email_import:
+        resource: '[Email Import Resource]'
+        category: '[Email Import Category]'
+      restore:
+        resource: '[Restored Resource]'
+        category: '[Restored Category]'

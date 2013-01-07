@@ -1,0 +1,51 @@
+ru:
+  srv:
+    view:
+      links:
+        index:
+          title: 'Каталог Ссылок'
+          add: 'Добавить ссылку'
+          back_link: 'Наша обратная ссылка'
+          email: 'Пришлите нам email с Вашей ссылкой и описанием:'
+        show:
+          title: '%{name} ссылки'
+        new:
+          title: 'Запрос на добавление ссылки'
+        search:
+          title: 'Поиск - %{search}'
+          link_search: 'Поиск ссылки'
+          nothing: 'По вашему запросу ничего не найдено.'
+      sites:
+        tag:
+          title: 'Тэги'
+      posts:
+        index:
+          title: 'Блог InEx Финансы'
+          archive: 'Архив Блога'
+      pages:
+        index:
+          title: 'InEx Финансы'
+          archive: 'Архив Блога'
+        show:
+          title: 'InEx Домашние Финансы'
+        site_map:
+          pages: 'Страницы'
+      registrations:
+        new:
+          title: 'Регистрация'
+          sign_up: 'Зарегистрироваться'
+          all_required: 'Все поля необходимо заполнить.'
+          agree: 'Регистрируясь Вы соглашаетесь с:'
+        edit:
+          title: 'Редактирование Профиля'
+          leave_blank: 'Оставьте пустым если Вы не хотите изменить'
+          password_confirm: 'Введите Ваш текущий пароль для подтверждения изменений'
+        omniauth:
+          google: 'Вход через Google профиль'
+          facebook: 'Вход через Facebook профиль'
+          yandex: 'Вход через Yandex профиль'
+          yahoo: 'Вход через Yahoo профиль'
+      sessions:
+        new:
+          title: 'Вход'
+          submit: 'Войти'

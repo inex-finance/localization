@@ -1,0 +1,56 @@
+en:
+  srv:
+    mode:
+      import:
+        category: '[Unrecognized Category]'
+        resource: '[Unrecognized Resource]'
+        invalid_category: 'Invalid Category.'
+        invalid_resource: 'Invalid Resource.'
+        invalid_currency: 'Invalid Currency.'
+        invalid_position: 'Invalid Transaction Number.'
+        invalid_date: 'Invalid Date format.'
+        invalid_income: 'Invalid Income amount.'
+        invalid_expense: 'Invalid Expense amount.'
+        truncate_name: 'Name was truncated.'
+        duplicate: 'Possible duplicate.'
+        rename: 'Rename'
+      social:
+        email: 'Send Email'
+        twitter: 'Twitter'
+        facebook: 'Facebook'
+        google: 'Google Plus'
+        vkontakte: 'V Kontakte'
+      amount:
+        gross: 'Gross amount'
+        net: 'Net amount'
+        fee: 'Fee amount'
+      reminder:
+        none: 'None'
+        same_day: 'Same day'
+        days:
+          one: '%{count} day before'
+          other: '%{count} days before'
+      schedule:
+        description:
+          on_week: 'on'
+          on_week_day: 'on'
+          on_month_day: 'on'
+          on_last_month_day: 'on last'
+          day_of_month: 'day of month'
+          until: 'until'
+          times:
+            one: 'one time'
+            other: '%{count} times'
+          every_day: 
+            one: 'Every day'
+            other: 'Every %{count} days'
+          every_week: 
+            one: 'Every week'
+            other: 'Every %{count} weeks'
+          every_month: 
+            one: 'Every month'
+            other: 'Every %{count} months'
+          every_year: 
+            one: 'Every year'
+            other: 'Every %{count} years'
+        

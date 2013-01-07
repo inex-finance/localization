@@ -1,0 +1,51 @@
+en:
+  srv:
+    view:
+      links:
+        index:
+          title: 'Link Directory'
+          add: 'Add Link'
+          back_link: 'Our back link'
+          email: 'Send us an email with your link and description:'
+        show:
+          title: '%{name} links'
+        new:
+          title: 'Request for link inclusion'
+        search:
+          title: 'Search - %{search}'
+          link_search: 'Link Search'
+          nothing: 'No results found for your query.'
+      sites:
+        tag:
+          title: 'Tags'
+      posts:
+        index:
+          title: 'InEx Finance Blog'
+          archive: 'Blog Archive'
+      pages:
+        index:
+          title: 'InEx Finance'
+          archive: 'Blog Archive'
+        show:
+          title: 'Income/Expense Home Finance'
+        site_map:
+          pages: 'Pages'
+      registrations:
+        new:
+          title: 'Register'
+          sign_up: 'Register'
+          all_required: 'Please note all fields are required.'
+          agree: 'By registering you agree to InEx Finance:'
+        edit:
+          title: 'Edit Account'
+          leave_blank: "Leave blank if you don't want to change it"
+          password_confirm: 'Please enter your current password to confirm the changes'
+        omniauth:
+          google: 'Sign in using Google account'
+          facebook: 'Sign in using Facebook account'
+          yandex: 'Sign in using Yandex account'
+          yahoo: 'Sign in using Yahoo account'
+      sessions:
+        new:
+          title: 'Sign in'
+          submit: 'Sign in'

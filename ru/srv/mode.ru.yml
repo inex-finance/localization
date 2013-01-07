@@ -1,0 +1,67 @@
+ru:
+  srv:
+    mode:
+      import:
+        category: '[Нераспознанная Категория]'
+        resource: '[Нераспознанный Ресурс]'
+        invalid_category: 'Неправильная Категория.'
+        invalid_resource: 'Неправильный Ресурс.'
+        invalid_currency: 'Неправильная Валюта.'
+        invalid_position: 'Неправильный Номер Транзакции.'
+        invalid_date: 'Неправильный формат Даты.'
+        invalid_income: 'Неправильная сумма Дохода.'
+        invalid_expense: 'Неправильная сумма Расхода.'
+        truncate_name: 'Название было сокращено.'
+        duplicate: 'Возможно дубликат.'
+        rename: 'Переименовано'
+      social:
+        email: 'Отправить Email'
+        twitter: 'Twitter'
+        facebook: 'Facebook'
+        google: 'Google Плюс'
+        vkontakte: 'В Контакте'
+      amount:
+        gross: 'Валовая сумма'
+        net: 'Чистая сумма'
+        fee: 'Плата за услуги'
+      reminder:
+        none: 'Нет'
+        same_day: 'В тот же день'
+        days:
+          one: 'За %{count} день'
+          few: 'За %{count} дня'
+          many: 'За %{count} дней'
+          other: 'За %{count} дня'
+      schedule:
+        description:
+          on_week: 'в'
+          on_week_day: 'в'
+          on_month_day: 'в'
+          on_last_month_day: 'в конце'
+          day_of_month: 'день месяца'
+          until: 'до'
+          times:
+            one: 'один раз'
+            few: '%{count} раза'
+            many: '%{count} раз'
+            other: '%{count} раз'
+          every_day: 
+            one: 'Каждый день'
+            few: 'Каждые %{count} дня'
+            many: 'Каждые %{count} дней'
+            other: 'Каждые %{count} дня'
+          every_week: 
+            one: 'Каждую неделю'
+            few: 'Каждую %{count} неделю'
+            many: 'Каждую %{count} неделю'
+            other: 'Каждые %{count} неделю'
+          every_month: 
+            one: 'Каждый месяц'
+            few: 'Каждый %{count} месяц'
+            many: 'Каждый %{count} месяц'
+            other: 'Каждые %{count} месяца'
+          every_year: 
+            one: 'Каждый год'
+            few: 'Каждые %{count} года'
+            many: 'Каждые %{count} лет'
+            other: 'Каждые %{count} лет'

@@ -1,0 +1,37 @@
+ru:
+  ui:
+    layout:
+      header:
+        title: 'Домашние финансы'
+        description: 'Домашние финансы'
+        keywords: 'финансы, домашние финансы, бухгалтерия'
+        name: 'InEx'
+        settings: 'Настройки'
+        sign_out: 'Выйти'
+        sign_in: 'Вход'
+        register: 'Регистрация'
+        calculator: 'Калькулятор'
+      footer:
+        about: 'О Проекте'
+        rss: 'RSS'
+        privacy: 'Безопасность'
+        terms: 'Условия Использования'
+        contact: 'Обратная Связь'
+        site_map: 'Карта Сайта'
+        help: 'Справка'
+        faq: 'ЧАВО'
+        links: 'Ссылки'
+        support: 'Помощь'
+        community: 'Сообщество'
+        blog_news: 'Новости Нашего Блога'
+        server_time: 'Время сервера'
+      menu:
+        blog: 'Блог'
+        pages: 'Страницы'
+        post: 'Запись'
+        users: 'Пользователи'
+        tag: 'Тэг'
+      demo:
+        title: 'Демо версия сайта InEx Финансы.'
+        link: "Полная версия находиться по адресу <b><a href='%{url}' rel='link'>InExFinance.com</a></b>"
+        info: 'Демо версия генерируется каждый день.'

@@ -1,0 +1,49 @@
+ru:
+  
+  ui:
+    
+    action:
+      add: 'Добавить'
+      new: 'Новый'
+      show: 'Просмотр'
+      edit: 'Изменить'
+      create: 'Создать'
+      save: 'Сохранить'
+      delete: 'Удалить'
+      back: 'Назад'
+      drag: 'Переместить'
+      previous: 'Назад'
+      next: 'Вперед'
+      ok: 'OK'
+      cancel: 'Отмена'
+      refresh: 'Обновить'
+      confirm: 'Подтвердить'
+      copy: 'Копировать'
+      create_event: 'Создать Событие'
+      update_confirm: 'Обновить и Подтвердить'
+      disconnect: 'Отключиться'
+      sync: 'Синхронизировать'
+      cleanup: 'Очистить'
+      finish: 'Закончить'
+      filter: 'Фильтр'
+      generate_budgets: 'Сгенерировать бюджеты на следующий месяц'
+      restore: 'Восстановить'
+
+      link_checker: 'Проверка Ссылки'
+      update_pagerank: 'Обновить PageRank'
+      check_reciprocal: 'Проверить Обратную Ссылку'
+
+      switch_user: 'Переключить Пользователя'
+      check_password: 'Проверить Пароль'
+
+      edit_selected: 'Редактировать Выбранные'
+      delete_selected: 'Удалить Выбранные'
+      select_all: 'Выделить Все'
+      deselect_all: 'Снять Выделение'
+
+      copy_amount: 'Копировать Сумму'
+      exchange_by_rate: 'Обмен по Курсу Системы'
+
+      ask_question: 'Задать Вопрос'
+      post: 'Опубликовать'
+      send: 'Отправить'

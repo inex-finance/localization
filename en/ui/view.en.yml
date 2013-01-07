@@ -1,0 +1,347 @@
+en:
+  
+  ui:
+    
+    view:
+      manage:
+        index:
+          title: 'Manage'
+      qa_categories:
+        index:
+          title: 'QA Categories'
+        add:
+          title: 'Add QA Category'
+        edit:
+          title: 'Change QA Category'
+      qa_questions:
+        index:
+          title: 'QA Questions'
+        edit:
+          title: 'Change QA Question'
+      link_categories:
+        index:
+          title: 'Link Categories'
+        add:
+          title: 'Add Link Category'
+        edit:
+          title: 'Change Link Category'
+      links:
+        index:
+          title: 'Links'
+        add:
+          title: 'Add Link'
+        edit:
+          title: 'Change Link'
+      link_texts:
+        index:
+          title: 'Link Texts'
+        add:
+          title: 'Add Link Text'
+        edit:
+          title: 'Change Link Text'
+      consumer_tokens:
+        index:
+          title: 'Consumer Tokens'
+      delayed_jobs:
+        index:
+          title: 'Delayed Jobs'
+        edit:
+          title: 'Change Delayed Job'
+      clients:
+        index:
+          title: 'Clients'
+        edit:
+          title: 'Change Client'
+      comments:
+        index:
+          title: 'Comments'
+        edit:
+          title: 'Change Comments'
+      pages:
+        index:
+          title: 'Pages'
+        add:
+          title: 'Add Page'
+        edit:
+          title: 'Change Page'
+      profile:
+        show:
+          title: 'Profile'
+        edit:
+          title: 'Change Profile'
+        language_currency:
+          title: 'Language/Currency'
+        date_time:
+          title: 'Date/Time'
+        notification:
+          title: 'Notifications'
+          send_confirmation: 'Send confirmation'
+          email_confirmed: 'Email confirmed'
+          email_not_confirmed: 'Email not confirmed'
+          email_send: 'Email sent, please check your inbox.'
+        interface:
+          title: 'Interface'
+        email_import:
+          title: 'Email Import'
+        file_export:
+          title: 'File Export'
+        cleanup:
+          title: 'Cleanup Profile'
+        cancel:
+          title: 'Delete Profile'
+      ip_whitelists:
+        index:
+          title: 'Whitelist IPs'
+        add:
+          title: 'Add IP'
+      external_connections:
+        index:
+          title: 'External Connections'
+          unconfirmed: "Awaiting requested user's confirmation."
+        add:
+          title: 'Add External Connection'
+      messages:
+        index:
+          title: 'Messages'
+          read: 'Read Messages'
+      authentications:
+        index:
+          title: 'Authentications'
+          connect: 'Add authentication to profile:'
+      import_rules:
+        index:
+          title: 'Import Rules'
+        add:
+          title: 'Add Import Rule'
+        edit:
+          title: 'Change Import Rule'
+      consumer_tokens:
+        index:
+          title: 'Synchronization'
+          not_connected: 'You are currently not connected to any external services.'
+          can_connect: 'You can connect to the following services:'
+          connected: 'You are connected to the following services:'
+        edit:
+          title: 'Change Synchronization'
+          connected: 'You are already Connected to %{name}.'
+      import_file:
+        index:
+          title: 'File Import'
+      progress:
+        index:
+          title: 'Progress'
+      import_overviews:
+        show:
+          title: 'Import Overview'
+      import_transactions:
+        index:
+          title: 'Import Transactions'
+        edit:
+          title: 'Change Import Transaction'
+      import_resources:
+        index:
+          title: 'Import Resources'
+        edit:
+          title: 'Change Import Resource'
+      import_categories:
+        index:
+          title: 'Import Categories'
+        edit:
+          title: 'Change Import Category'
+      resources:
+        index:
+          title: 'Resources'
+        disabled:
+          title: 'Disabled Resources'
+        add:
+          title: 'Add Resource'
+        edit:
+          title: 'Change Resource'
+      categories:
+        index:
+          title: 'Categories'
+        disabled:
+          title: 'Disabled Categories'
+        add:
+          title: 'Add Category'
+        edit:
+          title: 'Change Category'
+      budgets:
+        index:
+          title: 'Budgets'
+        add:
+          title: 'Add Budget'
+        edit:
+          title: 'Change Budget'
+      goals:
+        index:
+          title: 'Goals'
+        disabled:
+          title: 'Disabled Goals'
+        add:
+          title: 'Add Goal'
+        edit:
+          title: 'Change Goals'
+      transactions:
+        index:
+          title: 'Transactions'
+        add:
+          title: 'Add Transaction'
+        edit:
+          title: 'Change Transaction'
+      corrections:
+        add:
+          title: 'Add Correction'
+        edit:
+          title: 'Change Correction'
+      external_transfers:
+        add:
+          title: 'Add External Transfer'
+        edit:
+          title: 'Change External Transfer'
+      exchanges:
+        add:
+          title: 'Add Transfer/Exchange'
+        edit:
+          title: 'Change Transfer/Exchange'
+      credits:
+        index:
+          title: 'Credits'
+        disabled:
+          title: 'Disabled Credits'
+        add:
+          title: 'Add Credit'
+        edit:
+          title: 'Change Credit'
+      credit_returns:
+        add:
+          title: 'Add Credit Return'
+        edit:
+          title: 'Change Credit Return'
+      credit_additions:
+        add:
+          title: 'Add Credit Addition'
+        edit:
+          title: 'Change Credit Addition'
+      events:
+        index:
+          title: 'Events'
+        calendar:
+          title: 'Calendar'
+        add:
+          title: 'Add Event'
+        edit:
+          title: 'Change Event'
+      operations:
+        index:
+          title: 'Operations'
+        edit:
+          title: 'Change Operation'
+      dashboards:
+        index:
+          title: 'Dashboard'
+        sidebar:
+          currency_rates: 'Currency Rates'
+      answers:
+        index:
+          title: 'Questions/Answers'
+          all: 'All Questions/Answers'
+        add:
+          title: 'New Question'
+        show:
+          title: 'Question'
+        category:
+          title: 'Answers Category'
+      subscriptions:
+        edit:
+          title: 'Notifications Subscription'
+      report:
+        show:
+          title: 'Reports'
+          charts: 'Charts'
+      end_day_balance:
+        index:
+          title: 'End Day Balance'
+      resource_balance:
+        index:
+          title: 'Resource Balance'
+      transaction:
+        index:
+          title: 'Transactions'
+      credit_transaction:
+        index:
+          title: 'Credit Transactions'
+      transaction_filter:
+        index:
+          title: 'Transactions Filter'
+      category_turnover:
+        index:
+          title: 'Categories Turnover'
+      resource_turnover:
+        index:
+          title: 'Resources Turnover'
+      category_group:
+        index:
+          title: 'Categories Grouping'
+      resource_group:
+        index:
+          title: 'Resources Grouping'
+      tag_transaction:
+        index:
+          title: 'Tags Transactions'
+      tag_total:
+        index:
+          title: 'Tags Totals'
+      period_turnover:
+        index:
+          title: 'Period Turnover'
+      rates_per_day:
+        index:
+          title: 'Daily Currency Rates'
+      item:
+        index:
+          title: 'Transaction Items'
+      category_budget:
+        index:
+          title: 'Category Budgets'
+      category_comparison:
+        index:
+          title: 'Category Comparison'
+      income_expense:
+        index:
+          title: 'Income vs Expense'
+      resource_total:
+        index:
+          title: 'Resource Totals'
+      category_total:
+        index:
+          title: 'Category Totals'
+      balance_dynamic:
+        index:
+          title: 'Balance Dynamics'
+      category_dynamic:
+        index:
+          title: 'Categories Dynamics'
+      currency_dynamic:
+        index:
+          title: 'Currency Rates Dynamics'
+      category_month:
+        index:
+          title: 'Categories Monthly Turnover'
+      category_trend:
+        index:
+          title: 'Categories Trends'
+      transaction_map:
+        index:
+          title: 'Transactions Map'
+      forecast:
+        index:
+          title: 'Events Forecast'
+      link_exchanges:
+        index:
+          title: 'Link Exchange'
+      journals:
+        index:
+          title: 'Log Journal'
+        show:
+          title: 'Show Log Journal'

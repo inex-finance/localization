@@ -1,0 +1,17 @@
+ru:
+  srv:
+    layout:
+      header:
+        title: 'Домашние финансы'
+        description: 'Домашние финансы'
+        keywords: 'финансы, домашние финансы, бухгалтерия'
+        name: 'InEx'
+      menu:
+        start: 'Быстрый Старт'
+        how_to: 'Как Использовать'
+        homepage: 'Главная'
+        demo: 'Демо'
+        settings: 'Настройки'
+        register: 'Регистрация'
+      rss:
+        title: 'InEx личные финансы и бюджет'

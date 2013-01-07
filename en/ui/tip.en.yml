@@ -1,0 +1,47 @@
+en:
+
+  ui:
+    tip:
+      base:
+        leave_blank: "Leave blank if you don't want to change it."
+        few_minutes: 'This operation may take a few minutes.'
+        backup_data: 'Before proceed, please backup your data.'
+        calc: 'The following mathematical operations are supported: +, -, *, / and parentheses. Example: 3*(4+2)'
+        calculator: 'Input from keyboard supported: 0-9, +, -, *, /, =, C, E, D. To copy amounts from tables, hold Ctrl key and left click mouse button on the amount cell.'
+      profile:
+        password_confirm: 'Please enter your current password to confirm the changes.'
+        currency_move: 'Click on currency to move to Available/Selected.'
+        only_mobile: 'Only for mobile version.'
+        export_excel: 'To export to Excel (CSV) files, please choose Separator - Tab (\t), Encoding - Unicode.'
+      import_rules:
+        apply_rule: 'Import Rules are applied for Email/OFX/OAuth Import.'
+        first_rule: 'Upon import the first matching rule is applied. All other rules are ignored.'
+      consumer_tokens:
+        auto: 'Automatic synchronization is performed once a day.'
+      import_file:
+        contact: "If your type is not supported or there was an error during import, please <a href='%{link}' rel='link'>contact us</a>."
+        file_size: 'File size limit 1 Mb.'
+      goal:
+        not_started: "You haven't started saving money for your goal."
+        not_working: "Given the current state of affairs, your goal won't be reached."
+        progress_ok: "Given the current activity, your goal will be reached earlier than planned."
+        progress_working: |
+          Given the current activity, your goal will be reached in %{days_done} days, which <b>is %{days_diff} days later than planned</b>.
+          If you still want to achieve your goal in time, starting from today you have to put aside %{amount_success} 
+          a day (~%{amount_month} a month) for your goal.
+        progress_fail: |
+          Given the current activity, your goal will be reached in %{days_done} days, which <b>is %{days_diff} days later than planned</b>.
+          The end date for your goal (Date To) has passed, please readjust the goal settings.
+        progress_good: |
+          Given the current activity, your goal will be reached in %{days_done} days, which <b>is %{days_diff} days earlier than planned</b>.
+        complete: 'Goal successfully reached!'   
+      select:
+        no_matches: 'No matches found.'
+      report:
+        100_days: 'Maximum 100 days data are included in this report.'
+      event:
+        from: 'From event'
+      budget:
+        auto: 'Auto generated from Category'
+      journal:
+        7_days: 'Data is being stored for 7 days.'
