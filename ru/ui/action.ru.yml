@@ -10,6 +10,7 @@ ru:
       create: 'Создать'
       save: 'Сохранить'
       delete: 'Удалить'
+      replace: 'Заменить'
       back: 'Назад'
       drag: 'Переместить'
       previous: 'Назад'
@@ -28,6 +29,7 @@ ru:
       filter: 'Фильтр'
       generate_budgets: 'Сгенерировать бюджеты на следующий месяц'
       restore: 'Восстановить'
+      pay: 'Оплатить'
 
       link_checker: 'Проверка Ссылки'
       update_pagerank: 'Обновить PageRank'

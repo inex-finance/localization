@@ -85,6 +85,8 @@ ru:
           title: 'Импорт из Email'
         file_export:
           title: 'Файл Экспорта'
+        backup:
+          title: 'Резервная Копия'
         cleanup:
           title: 'Очистка Профиля'
         cancel:
@@ -301,6 +303,12 @@ ru:
       item:
         index:
           title: 'Элементы Транзакций'
+      income_statement:
+        index:
+          title: 'Отчет о Доходах'
+      net_worth:
+        index:
+          title: 'Cостояние'
       category_budget:
         index:
           title: 'Бюджеты по Категории'
@@ -345,3 +353,12 @@ ru:
           title: 'Журнал'
         show:
           title: 'Просмотр Журнала'
+      payments:
+        index:
+          title: 'Платежи'
+        add:
+          title: 'Добавить Платеж'
+        edit:
+          title: 'Изменить Платеж'
+        show:
+          title: 'Просмотр Платежа'

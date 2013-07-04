@@ -5,6 +5,7 @@ ru:
         check: Чек
         payee: Получатель
         reference_number: Номер Транзакции
+        check_number: Номер Чека
       type:
         credit: Стандартный кредит
         debit: Стандартный дебит

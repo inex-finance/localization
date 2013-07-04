@@ -10,6 +10,7 @@ en:
       create: 'Create'
       save: 'Save'
       delete: 'Delete'
+      replace: 'Replace'
       back: 'Back'
       drag: 'Drag'
       previous: 'Previous'
@@ -28,6 +29,7 @@ en:
       filter: 'Filter'
       generate_budgets: 'Generate budgets for next month'
       restore: 'Restore'
+      pay: 'Pay'
 
       link_checker: 'Link Checker'
       update_pagerank: 'Update PageRank'

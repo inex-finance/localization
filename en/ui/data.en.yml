@@ -9,6 +9,8 @@ en:
         categories: 'Categories'
         resources: 'Resources'
         credits: 'Credits'
+        deposits: 'Deposits'
+        debts: 'Debts'
         goals: 'Goals'
         events: 'Events'
         operations: 'Operations'
@@ -23,6 +25,7 @@ en:
         currency: 'Currency'
         default_currency: 'Default Currency'
         category: 'Category'
+        subcategory: 'Subcategory'
         default_category: 'Default Category'
         resource: 'Resource'
         default_resource: 'Default Resource'
@@ -42,6 +45,7 @@ en:
         credit_return: 'Credit Return'
         credit_addition: 'Credit Addition'
         item: 'Item'
+        payment: 'Payment'
 
       attribute:
         user: 'User'
@@ -73,6 +77,7 @@ en:
         created_at: 'Created at'
         updated_at: 'Updated at'
         number: 'Number'
+        plan: 'Plan'
         
         reciprocal_url: 'Reciprocal URL'
         title_param: 'Title parameter'
@@ -109,7 +114,7 @@ en:
         at_time: 'At'
         popup: 'Popup'
         sms: 'SMS'
-        login_page: 'Sing in page'
+        login_page: 'Sign in page'
         overview_type: 'Overview Type'
         per_page: 'Items per page'
         geolocation: 'Geolocation'
@@ -119,6 +124,7 @@ en:
         encoding: 'Encoding'
         separator: 'Column separator'
         number_format: 'Number format'
+        unsafe_items: 'Unsafe items'
         
         keywords: 'Keywords'
         published_at: 'Published at'
@@ -165,3 +171,5 @@ en:
         
         question: 'Question'
         display_once: 'Display once'
+        
+        sync_time: 'Last sync at'

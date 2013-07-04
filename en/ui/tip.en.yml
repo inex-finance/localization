@@ -2,10 +2,13 @@ en:
 
   ui:
     tip:
+      paid:
+        only: "Available in <a href='/en/pages/pricing' rel='link'>paid version</a> only."
+        events: "More than 10 Events are availably in <a href='/en/pages/pricing' rel='link'>paid version</a> only."
+        mobile: "Synchronization is available in paid version only: %{link}"
       base:
         leave_blank: "Leave blank if you don't want to change it."
         few_minutes: 'This operation may take a few minutes.'
-        backup_data: 'Before proceed, please backup your data.'
         calc: 'The following mathematical operations are supported: +, -, *, / and parentheses. Example: 3*(4+2)'
         calculator: 'Input from keyboard supported: 0-9, +, -, *, /, =, C, E, D. To copy amounts from tables, hold Ctrl key and left click mouse button on the amount cell.'
       profile:
@@ -13,6 +16,10 @@ en:
         currency_move: 'Click on currency to move to Available/Selected.'
         only_mobile: 'Only for mobile version.'
         export_excel: 'To export to Excel (CSV) files, please choose Separator - Tab (\t), Encoding - Unicode.'
+        unsafe_items: 'Turns off automatic elements total calculation.'
+      backup:
+        info: "Before proceed, please <a href='/profile/backup'>backup</a> your data."
+        cleanup: 'During data recovery all current records will be deleted.'
       import_rules:
         apply_rule: 'Import Rules are applied for Email/OFX/OAuth Import.'
         first_rule: 'Upon import the first matching rule is applied. All other rules are ignored.'

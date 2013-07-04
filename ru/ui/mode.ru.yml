@@ -64,7 +64,8 @@ ru:
         transactions: 'Транзакции'
         overview: 'Обзор'
       overview_type:
-        chart: 'График'
+        chart_daily: 'Ежедневный график'
+        chart_cumulative: 'Накопительный график'
         list: 'Последние Транзакции'
       separator:
         tab: 'Табулятор (\t)'
@@ -115,6 +116,7 @@ ru:
         home_finance_ua: 'Home.Finance.ua'
         homemoney_ua: 'HomeMoney.ua'
         drebedengi_ru: 'DrebeDengi.ru'
+        mint_com: 'Mint.com'
         buxfer_com: 'Buxfer.com'
         cash_organizer: 'Inesoft Cash Organizer'
         custom: 'Другой'
@@ -125,6 +127,7 @@ ru:
         citibank_ru: 'Citi Банк (RU)'
         vtb24_ru: 'ВТБ24 (RU)'
         rsb_ru: 'Банк Русский Стандарт (RU)'
+        suntrust_com: 'SunTrust (US)'
       import_status:
         unprocessed: 'Не обработано'
         processed: 'Обработано'
@@ -170,6 +173,14 @@ ru:
       journal_operation:
         import: 'Импорт'
         delete: 'Удаление'
-      journal_status:
+      approve_status:
         success: 'Успешно'
         fail: 'Неудачно'
+      plan:
+        free: 'Бесплатный'
+        paid: 'Платный'
+      payment:
+        one: '1 месяц'
+        three: '3 месяца'
+        six: '6 месяцев'
+        twelve: '12 месяцев'

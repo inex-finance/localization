@@ -9,6 +9,8 @@ ru:
         categories: 'Категории'
         resources: 'Ресурсы'
         credits: 'Кредиты'
+        deposits: 'Депозиты'
+        debts: 'Долги'
         goals: 'Цели'
         events: 'События'
         operations: 'Операции'
@@ -23,6 +25,7 @@ ru:
         currency: 'Валюта'
         default_currency: 'Валюта по умолчанию'
         category: 'Категория'
+        subcategory: 'Подкатегория'
         default_category: 'Категория по умолчанию'
         resource: 'Ресурс'
         default_resource: 'Ресурс по умолчанию'
@@ -34,14 +37,15 @@ ru:
         message: 'Сообщение'
         external_connection: 'Внешняя Связь'
         external_transfer: 'Внешний Перевод'
-        import_resource: 'Категория Импорта'
-        import_category: 'Ресурс Импорта'
+        import_resource: 'Ресурс Импорта'
+        import_category: 'Категория Импорта'
         correction: 'Коррекция'
         transfer_exchange: 'Перевод/Обмен'
         credit: 'Кредит'
         credit_return: 'Возврат Кредита'
         credit_addition: 'Увеличение Кредита'
         item: 'Элемент'
+        payment: 'Платеж'
         
       attribute:
         user: 'Пользователь'
@@ -73,6 +77,7 @@ ru:
         created_at: 'Создан в'
         updated_at: 'Изменен в'
         number: 'Номер'
+        plan: 'План'
 
         reciprocal_url: 'Обратный URL'
         title_param: 'Параметр названия'
@@ -119,6 +124,7 @@ ru:
         encoding: 'Кодировка'
         separator: 'Разделитель колонок'
         number_format: 'Формат чисел'
+        unsafe_items: 'Небезопасные элементы'
 
         keywords: 'Ключевые слова'
         published_at: 'Опубликовано в'
@@ -165,3 +171,5 @@ ru:
 
         question: 'Вопрос'
         display_once: 'Показать один раз'
+
+        sync_time: 'Последняя синхронизация в'

@@ -8,7 +8,6 @@ en:
         name: 'InEx'
       menu:
         start: 'Get Started'
-        how_to: 'How To'
         homepage: 'Home'
         demo: 'Demo'
         settings: 'Settings'

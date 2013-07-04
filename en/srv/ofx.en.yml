@@ -5,6 +5,7 @@ en:
         check: Check
         payee: Payee
         reference_number: Reference Number
+        check_number: Check Number
       type:
         credit: Generic credit
         debit: Generic debit

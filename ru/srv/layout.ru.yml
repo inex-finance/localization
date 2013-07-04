@@ -7,8 +7,7 @@ ru:
         keywords: 'финансы, домашние финансы, бухгалтерия'
         name: 'InEx'
       menu:
-        start: 'Быстрый Старт'
-        how_to: 'Как Использовать'
+        start: 'Старт'
         homepage: 'Главная'
         demo: 'Демо'
         settings: 'Настройки'

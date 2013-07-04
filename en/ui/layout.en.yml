@@ -15,6 +15,7 @@ en:
         about: 'About'
         rss: 'RSS'
         privacy: 'Privacy Policy'
+        refund: 'Refund Policy'
         terms: 'Terms & Conditions'
         contact: 'Contact Us'
         site_map: 'Site Map'
@@ -31,6 +32,7 @@ en:
         post: 'Post'
         users: 'Users'
         tag: 'Tag'
+        how_to: 'How To'
       demo:
         title: 'InEx Finance Demo version.'
         link: "The complete version is located at <b><a href='%{url}' rel='link'>InExFinance.com</a></b>"

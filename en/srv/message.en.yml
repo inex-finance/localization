@@ -41,6 +41,8 @@ en:
           error: 'During background execution the following error occurred: %{error}'
         profiles:
           cleanup: 'Profile cleaned up.'
+        backup:
+          restore: 'Data recovery successfully completed.'
         import:
           upload_done: "File uploaded. Processed %{rows_processed} transactions from %{rows_count} records."
           finish: 'Data Import finished successfully.'

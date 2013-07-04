@@ -85,6 +85,8 @@ en:
           title: 'Email Import'
         file_export:
           title: 'File Export'
+        backup:
+          title: 'Backup'
         cleanup:
           title: 'Cleanup Profile'
         cancel:
@@ -301,6 +303,12 @@ en:
       item:
         index:
           title: 'Transaction Items'
+      income_statement:
+        index:
+          title: 'Income Statement'
+      net_worth:
+        index:
+          title: 'Net Worth'
       category_budget:
         index:
           title: 'Category Budgets'
@@ -345,3 +353,12 @@ en:
           title: 'Log Journal'
         show:
           title: 'Show Log Journal'
+      payments:
+        index:
+          title: 'Payments'
+        add:
+          title: 'Add Payment'
+        edit:
+          title: 'Change Payment'
+        show:
+          title: 'Show Payment'
